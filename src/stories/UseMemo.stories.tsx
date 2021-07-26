@@ -60,7 +60,7 @@ export const HelpForReactMemo = () => {
 
     const Users = React.memo(UsersSecret)
 
-    export const HelpsToReactMemo = () => {
+    const HelpsToReactMemo = () => {
         console.log('HelpsToReactMemo')
     }
     const [counter, setCounter] = useState(0);

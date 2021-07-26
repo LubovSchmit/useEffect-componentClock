@@ -4,8 +4,8 @@ import {UncontrolledRating} from './components/UncontrolledRating/UncontrolledRa
 import {UncontrolledAccordion} from './components/UncontrolledAccordion/UncontrolledAccordion';
 import {Accordion} from './components/Accordion/Accordion';
 import {Rating, RatingValuePropsType} from './components/Rating/Rating';
-import OnOff from './components/OnOff/OnOff';
-import UncontrolledOnOff from './components/UncontrolledOnOff/UncontrolledOnOff';
+import {OnOff} from './components/OnOff/OnOff';
+import {UncontrolledOnOff} from './components/UncontrolledOnOff/UncontrolledOnOff';
 /*import {Rating} from "./components/Rating/Rating";
 import OnOff from './components/OnOff/OnOff';*/
 
